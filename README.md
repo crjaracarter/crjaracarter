@@ -23,9 +23,9 @@
 
 #### Let's Connect!
 
-- 🔗 [LinkedIn Profile] https://www.linkedin.com/in/cristian-alexis-jara-carter/
-- 💼 [Personal Website](WORKING)
-- ✉️ [Email] xxxx
+- 🔗 [LinkedIn Profile] (https://www.linkedin.com/in/cristian-alexis-jara-carter/)
+- 💼 [Personal Website]WORKING
+- ✉️ [Email] notyet
 
 #### Fun Fact
 > Penguins are cute and scary 🐧
