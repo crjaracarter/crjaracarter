@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**crjaracarter/crjaracarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Computer Programming Analyst / Computer Engineer / Cybersecurity Enthusiast / Web Developer
 
-Here are some ideas to get you started:
+- 🔍 Exploring the depths of digital landscapes, unveiling their secrets
+- 🔒 Passionate about cybersecurity and ethical hacking
+- 💻 Crafting dynamic and secure web applications
+- 🚀 Continuously learning and pushing boundaries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Works
+
+- 🕵️‍♂️ Learning from other people's carelessness
+- 🍽️ MyTaste - A personal preferences web page
+- 💼 Portfolio web - Showcasing my works and skills
+- 🛒 Branding web page (e-commerce maybe?) - An online brand presence
+
+#### Skills
+
+- 📜 Programming Languages: Python, JavaScript, Java, Ionic
+- 🛡️ Cybersecurity: Penetration Testing, Network Security, Cryptography
+- 🌐 Web Development: React, Node.js, HTML/CSS
+- 🐧 Linux, Bash Scripting
+
+#### Let's Connect!
+
+- 🔗 [LinkedIn Profile] https://www.linkedin.com/in/cristian-alexis-jara-carter/
+- 💼 [Personal Website](WORKING)
+- ✉️ [Email] xxxx
+
+#### Fun Fact
+> Penguins are cute and scary 🐧
+> "We haven't seen everything yet." 🕵️‍♀️
+
