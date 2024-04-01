@@ -8,7 +8,7 @@
 - 🚀 Continuously learning and pushing boundaries
 <hr style="border: 2px solid #ff0000;">
 
-#### Current Works
+## Current Works
 
 - 🕵️‍♂️ Learning from other people's carelessness
 - 🍽️ MyTaste - A personal preferences web page
@@ -17,7 +17,7 @@
   
 <hr style="border: 2px solid #ff0000;">
 
-#### Skills
+## Skills
 
 - 🛡️ Cybersecurity: Penetration Testing, Network Security, Cryptography
 - 🌐 Web Development: React, Node.js, HTML/CSS
@@ -41,7 +41,7 @@
 
 <hr style="border: 2px solid #ff0000;">
 
-#### Let's Connect!
+## Let's Connect!
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/cristian-alexis-jara-carter/)
 - 💼 [Personal Website] WORKING
@@ -49,7 +49,7 @@
 
 <hr style="border: 2px solid #ff0000;">
 
-#### Fun Fact
+## Fun Fact
 > Penguins are cute and scary 🐧
 > "We haven't seen everything yet." 🕵️‍♀️
 
