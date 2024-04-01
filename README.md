@@ -16,7 +16,9 @@
 
 #### Skills
 
-- 📜 Programming Languages: Python, JavaScript, Java, Ionic
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java
 - 🛡️ Cybersecurity: Penetration Testing, Network Security, Cryptography
 - 🌐 Web Development: React, Node.js, HTML/CSS
 - 🐧 Linux, Bash Scripting
