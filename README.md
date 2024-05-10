@@ -2,7 +2,6 @@
 
 #### I'm a Computer Programming Analyst / Computer Engineer / Cybersecurity Enthusiast / Web Developer
 
-- 🔍 Exploring the depths of digital landscapes, unveiling their secrets
 - 🔒 Passionate about cybersecurity and ethical hacking
 - 💻 Crafting dynamic and secure web applications
 - 🚀 Continuously learning and pushing boundaries
