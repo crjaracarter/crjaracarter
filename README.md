@@ -8,7 +8,6 @@
 
 ## Current Works
 
-- 🕵️‍♂️ Learning from other people's carelessness
 - 🍽️ MyTaste - A personal preferences web page
 - 💼 Portfolio web - Showcasing my works and skills
 - 🛒 Branding web page (e-commerce maybe?) - An online brand presence
